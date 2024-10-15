@@ -34,6 +34,7 @@ function Sidebar() {
             <span className="flex text-xs py-1 px-3 text-white justify-center items-center rounded-lg bg-theme500">
               {admin}
             </span>
+            <span>KurdiSong</span>
           </div>
         </div>
         <div
